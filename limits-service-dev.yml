@@ -1,0 +1,4 @@
+limit:
+  service:
+    min: 2
+    max: 22

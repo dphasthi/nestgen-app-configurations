@@ -1,0 +1,1 @@
+# nestgen-app-configurations
